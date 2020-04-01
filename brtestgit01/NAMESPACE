@@ -1,0 +1,3 @@
+useDynLib(brtestgit01, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")

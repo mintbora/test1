@@ -1,0 +1,11 @@
+Package: brtestgit01
+Type: Package
+Title: for test
+Version: 1.0
+Date: 2020-04-01
+Author: Bora Lee <mintbora0125@gmail.com>
+Maintainer: Bora Lee <mintbora0125@gmail.com>
+Description: This is built for the test about uploading my package to git.
+License: GPL-3
+Imports: Rcpp (>= 1.0.4)
+LinkingTo: Rcpp, RcppArmadillo
